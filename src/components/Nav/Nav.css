@@ -1,0 +1,45 @@
+.navbar {
+    background-color: #003399;
+    color: white;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    width: 100%;
+    overflow: hidden;
+    opacity: 0.85;
+}
+
+.nav-home {
+    color:white;
+}
+
+.nav-item {
+    color:white;
+    font-size: 35px;
+}
+
+.navbar:hover {
+    text-decoration: none;
+    color:orange;
+}
+
+.nav-home:hover {
+    text-decoration: none;
+    background-color:#003399;
+}
+
+.nav-item:hover {
+    text-decoration: none;
+    color:orange;
+    background-color: #003399;
+}
+
+a {
+    color:white;
+}
+
+a:hover {
+    text-decoration: none;
+    color:orange;
+    background-color: #003399;
+}
+
