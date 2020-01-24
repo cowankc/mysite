@@ -14,14 +14,14 @@ function About() {
                             <img src={me} 
                             alt="me" 
                             height="200px" 
-                            width="auto" 
+                            width="293px" 
                             className="bioPic l-box pure-u-1 pure-u-md-1-1 pure-u-lg-1-3"/>
                         </div>
                         <div>
                             <h2>Coding Skills</h2>
                             <ul>
-                                <li>Able to use CSS, Pure.css, and Bootsrtap for Front End styling</li>
-                                <li>Skilled at building JavaScipt applications as well as libraries like jQuery and Ract.js</li>
+                                <li>Able to use CSS, Pure.css, and Bootsrtap for front end styling</li>
+                                <li>Skilled at building JavaScipt applications with libraries like jQuery and Ract.js</li>
                                 <li>Knowledgable in working with both MySQL and MongoDB databases</li>
                                 <li>Experienced with using Node.js and Express for working on server-side applications</li>
                             </ul>
@@ -39,9 +39,9 @@ function About() {
                                 <li>Worked in high management positions for two seperate companies</li>
                                 <li>Certified Full Stack Web Developer from The University of Texas </li>
                             </ul>
-                            <h2>Hobbies and interests</h2>
+                            <h2>Hobbies and Interests</h2>
                             <ul>
-                                <li>Practicing my coding skilss and working on my own projects</li>
+                                <li>Practicing my coding skills and working on my own projects</li>
                                 <li>Playing basketball, hiking on the trails, and skiing</li>
                                 <li>Nerding out with video games and movies</li>
                             </ul>
