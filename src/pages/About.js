@@ -7,15 +7,17 @@ function About() {
             <div>
                 <div className="pure-g center">
                     <div className="welcome-container l-box pure-u-1 pure-u-md-1-1 pure-u-lg-1-1">
-                        <div className="bio-head">
-                            <h1 className="bio-title l-box pure-u-1 pure-u-md-1-1 pure-u-lg-1-3">
+                        <div className="bio-head pure-g center">
+                            <h1 className="bio-title">
                                 My Bio
                             </h1>
+                        </div>
+                        <div className="pure-g center">
                             <img src={me} 
-                            alt="me" 
-                            height="200px" 
-                            width="293px" 
-                            className="bioPic l-box pure-u-1 pure-u-md-1-1 pure-u-lg-1-3"/>
+                                alt="me" 
+                                height="200px" 
+                                width="293px" 
+                                className="bioPic l-box pure-u-1 pure-u-md-1-1 pure-u-lg-1-3"/>
                         </div>
                         <div>
                             <h2>Coding Skills</h2>
