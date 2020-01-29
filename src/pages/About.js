@@ -1,6 +1,5 @@
 import React from "react";
 import "./pages.css"
-import me from "../images/me.jpg"
 
 function About() {
         return (
@@ -11,13 +10,6 @@ function About() {
                             <h1 className="bio-title">
                                 My Bio
                             </h1>
-                        </div>
-                        <div className="pure-g center">
-                            <img src={me} 
-                                alt="me" 
-                                height="200px" 
-                                width="293px" 
-                                className="bioPic l-box pure-u-1 pure-u-md-1-1 pure-u-lg-1-3"/>
                         </div>
                         <div>
                             <h2>Coding Skills</h2>
