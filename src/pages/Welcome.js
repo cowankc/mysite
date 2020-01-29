@@ -13,11 +13,11 @@ function Welcome() {
                                 Austin TX.  I am a motivated and resourceful worker who enjoys problem solving and working 
                                 with others. I am looking forward to expanding my skill set by working with a driven team 
                                 that is motivated to create quality and professional material. I am proficient in using 
-                                JavaScript, React,and jQuery to build professional quality websites.
+                                JavaScript, React.js, and jQuery to build professional quality websites.
                                 </p>
                                 <p>
                                 <a href="https://www.linkedin.com/in/kevin-cowan-728580187/" target="blank" className="pure-button pure-button-primary">Linkdin</a>
-                                <a href="https://github.com/cowankc?tab=repositories" target="blank" className="pure-button pure-button-primary">Github</a>
+                                <a href="https://github.com/cowankc" target="blank" className="pure-button pure-button-primary">Github</a>
                                 <a href={Resume} target="blank" className="pure-button pure-button-primary">Resume</a>
                                 </p>
                         </div>

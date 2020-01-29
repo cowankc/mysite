@@ -19,49 +19,49 @@ class Portfolio extends Component {
                 URL: "https://erwinangeles.github.io/LetsGoOut/",
                 image: LGO,
                 github: "https://github.com/cowankc/LetsGoOut",
-                summary: "Lets Go Out is designed to help create a spontanious night of excitement and entertainment. It gives recommendations tousers who are looking for a fun night out on the town by asking them whether they are looking for a movie or event, and if they are hungry and want to eat out. Once the user answers the questions, they are given their options which also have links for further details. For this project I worked on the front end and helped with styling thw website."
+                summary: "Lets Go Out is designed to help create a spontanious night of excitement and entertainment. It gives recommendations to users who are looking for a fun night out on the town by asking them whether they are looking for a movie or event, and if they are hungry and want to eat out. Once the user answers the questions, they are given their options which also have links for further details. For this project I worked on the front end and helped with styling the website."
             },
             {
                 title: "What's Cookin",
                 URL: "https://obscure-badlands-37234.herokuapp.com/",
                 image: Cooking,
                 github: "https://github.com/cowankc/whatsCookin",
-                summary: "What's Cookin is a food service applications that allows chefs to post homemade meals for other users to puchase and review. Users can log in and view meals being made in there area and can choose the ones they are interested in buying. The application uses javascript, JQuery, materialize, handlebars, and MySQL to run. For this project, I worked on linking the Databases to the server and routing the pages of the website."
+                summary: "What's Cookin is a food service application that allows chefs to post homemade meals for other users to puchase and review. Users can log in and view meals being made in their area and can choose the ones they are interested in buying. The application uses javascript, JQuery, Materialize, Handlebars, and MySQL to run. For this project, I worked on linking the Database to the server and routing the pages of the website."
             },
             {
                 title: "Memory Game",
                 URL: "https://cowankc.github.io/Clicky-Game/",
                 image: SP,
                 github: "https://github.com/cowankc/Clicky-Game",
-                summary: "This is a memory game I made where you must remeber what image you clicked on. There are twelve images that will change places when clicked. If you click on the same image more then once, you lose. See if you can get all 12 correct! The app was made using React, Javascript, Express, and uses CSS for styling."
+                summary: "This is a memory game I made where you must remember what image you clicked. There are twelve images that will change places when clicked. If you click on the same image more then once, you lose. See if you can get all 12 correct! The app was made using React, Javascript, Express, and uses CSS for styling."
             },
             {
                 title: "Eat The Burger",
                 URL: "https://polar-shore-96942.herokuapp.com/",
                 image: Burger,
                 github: "https://github.com/cowankc/burger",
-                summary: "This application allows you to create a list of burgers to be eaten! First, enter a burger and submit it. It will be listed as a burger that is ready to be eaten. When you click on the burger it will then send it to the eaten burger list. If the user clicks on an eaten burger it will delete the burger from the list! I created the app using express and node on the back end to run the server, and handlebars to deploy the front end. It uses Mysql as a database to log all the burgers and keep track of their status."
+                summary: "This application allows you to create a list of burgers to be recorded and eaten! First, enter a burger and submit it. It will be listed as a burger that is ready to be eaten. When you click on the burger it will then send it to the eaten burger list. If the user clicks on an eaten burger it will delete the burger from the list! I created the app using express and node to run the server, and handlebars for the front end. It uses Mysql to log all the burgers and keep track of their status."
             },
             {
                 title: "Star Wars Trivia",
                 URL: "https://cowankc.github.io/TriviaGame/",
                 image: Trivia,
                 github: "https://github.com/cowankc/TriviaGame",
-                summary: "This is a Star Wars trivia game I created using javascript! You will be given four answers to choose from, once you choose an answer the game will tell you if you are right or wrong. You have 10 seconds to answer the question, if you don't answer it in time it will be counted as a wrong answer. The game records the number of correct and wrong answers. There are 15 questions in all, see how many you can get right!"
+                summary: "This is a Star Wars trivia game I created using JavaScript! You will be given four answers to choose from, once you choose an answer the game will tell you if you are right or wrong. You have 10 seconds to answer the question, if you don't answer it in time it will be counted as a wrong answer. The game records the number of correct and wrong answers. There are 15 questions in all, see how many you can get right!"
             },
             {
                 title: "NBA Hangman",
                 URL: "https://cowankc.github.io/Word-Guess-Game/",
                 image: Hangman,
                 github: "https://github.com/cowankc/Word-Guess-Game",
-                summary: "This game is designed like a hangman style of game. The user must try and figure out what the word is before they run out of guesses. The words are made up of NBA players from different eras. See how many you can get before you get tripped up! Once you get the page loaded press any key to start the game. This is one of my first javascript projects so hopefully you enjoy it!"
+                summary: "This game is designed like a game of hangman. The user must try and figure out what the word is before they run out of guesses. The words are made up of NBA players from different eras. See how many you can get before you get tripped up! Once you get the page loaded press any key to start the game. This is one of my first JavaScript projects so hopefully you enjoy it!"
             },
             {
                 title: "Giphy Search",
                 URL: "https://cowankc.github.io/gif-generator/",
                 image: Widget,
                 github: "https://github.com/cowankc/gif-generator",
-                summary: "This is a Gif generator that uses the giphy api to load ten gifs. The gifs are sports themed and are loaded paused. When you click on the gif it will animate! you can search for your favorite team and add a new button to load gifs of that team. This is my first project using API's and was worked on by myself."
+                summary: "This is a gif generator that uses the giphy api to load ten gifs. The gifs are sports themed and are loaded paused. When you click on the gif it will animate! you can search for your favorite team and add a new button to load gifs of that team. This is my first project using API's and was worked on by myself."
             },
             {
                 title: "Presidential RPG",
@@ -75,7 +75,7 @@ class Portfolio extends Component {
                 URL: "https://cowankc.github.io/RPS-Multiplayer/",
                 image: RPS,
                 github: "https://github.com/cowankc/RPS-Multiplayer",
-                summary: "This is a basic rock, paper, scissor game created using javascript and firebase. Having it linked withfirebase allows for 2 users too use the application at once and go head to head against each other. Their score will be recorder on screen based on which decisions they choose. This is one of my first projects usingfirebase and was helpfully in learning how it an be applied to my future projects. "
+                summary: "This is a basic rock, paper, scissor game created using JavaScript and Firebase. Having it linked with firebase allows for 2 users too use the application at once and play against each other. Their score will be recorder on screen based on which decisions they choose. This is one of my first projects using firebase and was helpfully in learning how it can be applied to my future projects."
             },
         ]
     };

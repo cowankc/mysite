@@ -9,7 +9,7 @@ function Contact() {
                         <div className="">
                             <h1 className="container-head">Contact Info</h1>
                                 <h3 className="container-subhead">
-                                Email: cowankc92@live.com
+                                Email: cowankc92@gmail.com
                                 </h3>
                                 <h3 className="container-subhead">
                                 phone: 603-425-8852

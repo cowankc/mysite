@@ -8,7 +8,7 @@ function About() {
                 <div className="pure-g center">
                     <div className="welcome-container l-box pure-u-1 pure-u-md-1-1 pure-u-lg-1-1">
                         <div className="bio-head">
-                            <h1 className="bio-title l-box pure-u-1 pure-u-md-1-1 pure-u-lg-1-2">
+                            <h1 className="bio-title l-box pure-u-1 pure-u-md-1-1 pure-u-lg-1-3">
                                 My Bio
                             </h1>
                             <img src={me} 
@@ -21,9 +21,9 @@ function About() {
                             <h2>Coding Skills</h2>
                             <ul>
                                 <li>Able to use CSS, Pure.css, and Bootsrtap for front end styling</li>
-                                <li>Skilled at building JavaScipt applications with libraries like jQuery and Ract.js</li>
+                                <li>Skilled at building JavaScipt applications with libraries like jQuery and React.js</li>
                                 <li>Knowledgable in working with both MySQL and MongoDB databases</li>
-                                <li>Experienced with using Node.js and Express for working on server-side applications</li>
+                                <li>Experience with using Node.js and Express for working on server-side applications</li>
                             </ul>
                             <h2>Personal Skills</h2>
                             <ul>
@@ -35,7 +35,7 @@ function About() {
                             <h2>Background Info</h2>
                             <ul>
                                 <li>Grew up in New Hampshre</li>
-                                <li>Graduated cum laude from the University of New Hampshire with a bachelors in History</li>
+                                <li>Graduated Cum Laude from the University of New Hampshire with a Bachelors in History</li>
                                 <li>Worked in high management positions for two seperate companies</li>
                                 <li>Certified Full Stack Web Developer from The University of Texas </li>
                             </ul>
