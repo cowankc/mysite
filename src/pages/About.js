@@ -14,9 +14,9 @@ function About() {
                         <div>
                             <h2>Coding Skills</h2>
                             <ul>
-                                <li>Able to use CSS, Pure.css, and Bootsrtap for front end styling</li>
-                                <li>Skilled at building JavaScipt applications with libraries like jQuery and React.js</li>
-                                <li>Knowledgable in working with both MySQL and MongoDB databases</li>
+                                <li>Able to use CSS, Pure.css, and Bootstrap for front end styling</li>
+                                <li>Skilled at building JavaScript applications with libraries like jQuery and React.js</li>
+                                <li>Knowledgeable in working with both MySQL and MongoDB databases</li>
                                 <li>Experience with using Node.js and Express for working on server-side applications</li>
                             </ul>
                             <h2>Personal Skills</h2>
