@@ -16,7 +16,7 @@ function Welcome() {
                                 JavaScript, React.js, and jQuery to build professional quality websites.
                                 </p>
                                 <p>
-                                <a href="https://www.linkedin.com/in/kevin-cowan-728580187/" target="blank" className="pure-button pure-button-primary">Linkdin</a>
+                                <a href="https://www.linkedin.com/in/kevin-cowan-728580187/" target="blank" className="pure-button pure-button-primary">Linkedin</a>
                                 <a href="https://github.com/cowankc" target="blank" className="pure-button pure-button-primary">Github</a>
                                 <a href={Resume} target="blank" className="pure-button pure-button-primary">Resume</a>
                                 </p>
